@@ -38,6 +38,8 @@
 
             #region DERIVE THE SCORES FROM THE APPLICATION LIST
 
+            //STILL TRYING TO GET THIS TO WORK, PROBABLY SOMETHING WITH MY FOR LOOP
+
             int[] applicantsScores = new int[13];
 
 
